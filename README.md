@@ -2,6 +2,8 @@
 
 ## I'm Web Developer, and Student!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maksood293&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 - 🔭I’m currently working at ECHO India[https://www.echoindia.in/]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -20,6 +22,9 @@
 </a>
 <a href="https://www.instagram.com/kmd0332/?hl=en">
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100007274735036">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
