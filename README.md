@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to read book and play game
 
 ![Linkedin: Maksood](https://img.shields.io/badge/-Maksood-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksood-41655913a/)
-[![GitHub Maksood293](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/maksood293)
+[![GitHub Maksood293](https://img.shields.io/github/followers/maksood293?label=follow&style=social)](https://github.com/maksood293)
 
 ### Connect with me:
 
