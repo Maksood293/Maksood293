@@ -1,6 +1,6 @@
 ### Hi there, I'm Maksood 👋
 
-## I'm Web Developer, and Student!
+## I'm Web Developer!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksood293&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
