@@ -7,7 +7,7 @@
 - 🔭I’m currently working at <a href="https://groyyo.com/">Groyyo</a>
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read book and play game and watching movies
+- ⚡ Fun fact: I love to do exercise and play game and watching movies
 
 ![Linkedin: Maksood](https://img.shields.io/badge/-Maksood-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksood-41655913a/)
 [![GitHub Maksood293](https://img.shields.io/github/followers/maksood293?label=follow&style=social)](https://github.com/maksood293)
