@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksood293&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-- 🔭I’m currently working at <a href="https://groyyo.com/">Groyyo</a>
+- 🔭I’m currently working at <a href="https://www.deloitte.com/in/en.html">Deloitte</a>
 - 🌱 I’m currently learning AI Engineer
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do exercise and play game and watching movies
